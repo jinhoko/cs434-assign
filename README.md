@@ -16,3 +16,17 @@ An assignment repository for POSTECH CSED434 Adv. Programming Fall 2020
 | 7  | NodeScala (nodescala.scala, package.scala)                                            | 11월 23일 11:59pm | Not started |         |
 
 (last update : 13 Sep)
+
+### Execution Guide
+
+First, Browse to each project folder.
+
+To build and run Main(),
+```
+sbt run
+```
+To test implementation with test files,
+```
+sbt test
+```
+(sbt version 0.13.18, scala version 2.11.12 used.)
