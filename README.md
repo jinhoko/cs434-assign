@@ -8,7 +8,7 @@ An assignment repository for POSTECH CSED434 Adv. Programming Fall 2020
 | HW | Name                                                                                  | Due               | Status      | Comment |
 |----|---------------------------------------------------------------------------------------|-------------------|-------------|---------|
 | 1  | Functions and Evaluations - Recursion (Main.scala)                                    | 9월 14일 11:59pm  | Finished | Merged branch `assn1` to `master`        |
-| 2  | Higher Order Functions - Functional Sets (FunSets.scala)                              | 9월 21일 11:59pm  | Not started |         |
+| 2  | Higher Order Functions - Functional Sets (FunSets.scala)                              | 9월 21일 11:59pm  | Finished | Merged branch `assn2` to `master`        |
 | 3  | Data and Abstraction - Object-Oriented Sets (TweetSet.scala)                          | 9월 28일 11:59pm  | Not started |         |
 | 4  | Types and Pattern Matching - Huffman Coding (Huffman.scala)                           | 10월 5일 11:59pm  | Not started |         |
 | 5  | Collections - Anagrams (Anagrams.scala)                                               | 10월 19일 11:59pm | Not started |         |
